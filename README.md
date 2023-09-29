@@ -73,6 +73,7 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 
 ## Output:
 ![](1.png)
+
 ![](2.png)
 
 
